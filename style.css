@@ -1,0 +1,149 @@
+body{
+    background: linear-gradient(to bottom right, #c31432, #240b36);
+    background-repeat:no-repeat ;
+    background-size: cover;
+    font-family:Open Sans, sans-serif;
+    box-sizing: border-box;
+    /* margin: auto; */
+}
+header{
+    
+    text-align: center;
+}
+header h1{
+    font-family: Open Sans, sans-serif;
+    color: white;
+    font-size: 32px;
+    margin:  21.44px 0px;
+    font-weight: bolder;
+}
+header p{
+    color: white;
+    font-family:Open Sans, sans-serif ;
+    margin-top:16px 0px ;
+}
+.the-first-box{
+    background-color: rgb(245, 245, 245);
+    display: block;
+    width: 60%;
+    margin: auto;
+    padding:28.9062px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.label-for-your-name{
+    display: block;
+    margin-bottom:12.800px ;
+    font-weight: 700;
+}
+.first-input{
+    padding: 7.79688px 10.4062px;
+    border: 1px solid grey;
+    width:45%;
+    border-radius: 50px;
+    font-family:Open Sans, sans-serif;
+    font-size: 16px;
+    font-stretch: 100%;
+    margin-right: 10px;
+    padding: 7.79688px 10.4062px;
+    border: 1px solid grey;
+    height: 27px;
+    margin-right: 10.406px;
+    margin-bottom: 12.400px;
+    outline-width: 0px;
+    
+}
+.Other-name{
+    padding: 7.79688px 10.4062px;
+    width:45%;
+    border: 1px solid grey;
+    border-radius: 50px;
+    font-family:Open Sans, sans-serif;
+    font-size: 16px;
+    font-stretch: 100%;
+    margin-right: 10px;
+    height: 27px;
+    margin-bottom: 12.400px;
+    outline-width: 0px;
+    
+}
+
+.email-input{
+    width:95%;
+    height:27px;
+    border: 1px solid grey;
+    border-radius: 50px;
+    /* font-family:Open Sans, sans-serif ; */
+    font-size: 16px;
+    padding:7.79688px 10.4062px;
+    margin-bottom: 12.400px;
+    outline-width: 0px;
+}
+#dropdown{
+    width:98%;
+    border: 1px solid grey;
+    border-radius: 50px;
+    font-size: 16px;
+    padding:7.79688px 10.4062px;
+    margin-bottom: 25px;
+    height: 38px;
+    outline-width: 0px;
+}
+.unordered-list li{
+    list-style: none;
+    padding-bottom: 13px;
+}
+
+.unordered-list{
+    padding: 0px;
+}
+.acess{
+    list-style: none;
+}
+.other-comment{
+    border-radius: 10px;
+}
+#text-area{
+    border-radius: 10px;
+    font-family:Open Sans, sans-serif;
+    padding: 7.79688px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    outline-width: 0px;
+    width:100%;
+    height:auto;
+
+}
+.first-link button{
+    font-family:Open Sans, sans-serif;
+    padding: 7.79688px 31.2344px;
+    font-size:13.3333px;
+    border-radius: 50px;
+    border: 1px solid grey;
+}
+.footer-class p{
+    font-size: 13px;
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
